@@ -1,75 +1,51 @@
 ---
-# Display name
-title: Nelson Bighetti
+title: Raghuram Shankar
 
-# Username (this should match the folder name)
 authors:
 - admin
 
-# Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role: Professor of Artificial Intelligence
+role: Electric Power Engineer
 
-# Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Chalmers University of Technology
+  url: "https://www.chalmers.se/en/Pages/default.aspx"
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a first-year M.Sc. student in the programme "Electric Power Engineering" at Chalmers University of Technology, Sweden.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Lithium-ion Battery Systems
+- Controls
+- Power Electronics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Sc. in Electric Power Engineering
+    institution: Chalmers University of Technology, Sweden
+    graduation: 2021
+  - course: B.Tech. in Electrical & Electronics Engineering
+    institution: SASTRA Deemed-to-be-University, India
 
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:raghuramshankar@outlook.com'
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/raghuramshankar
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/raghuramshankar
+- icon: cv
+  icon_pack: ai
+  link: files/resume.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Chalmers Formula Student
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an M.Sc. Student in the Programme Electric Power Engineering at Chalmers University of Technology, Gothenburg, Sweden. I am currently a part of Chalmers Formula Student, where we are building an electric formula-style car to compete in International Formula Student competition. I am responsible for Vehicle Controls and Torque Vectoring.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have formerly had one year of research experience during my Bachelor's and have presented one research paper on Multilevel Inverters.
+I am interested in Lithium-ion Battery Systems, Controls and Power Electronic Converters. 
